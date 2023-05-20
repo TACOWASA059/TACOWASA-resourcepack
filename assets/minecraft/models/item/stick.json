@@ -1,7 +1,7 @@
 {
   "textures": {
-		"0": "TACOWASA",
-		"particle": "TACOWASA"
+		"0": "tacowasa",
+		"particle": "tacowasa"
 	},
 	"elements": [
 		{

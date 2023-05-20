@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "TACOWASA_head_shake",
-		"particle": "TACOWASA_head_shake"
+		"0": "tacowasa_head_shake",
+		"particle": "tacowasa_head_shake"
 	},
 	"elements": [
 		{

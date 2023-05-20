@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "Flag_of_Hungary2",
+		"0": "flag_of_hungary2",
 		"1": "block/birch_planks",
-		"particle": "Flag_of_Hungary2",
+		"particle": "flag_of_hungary2",
 		"transparent": true
 	},
 	"elements": [
