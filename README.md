@@ -6,7 +6,8 @@
 
 ## ダウンロード
 https://github.com/TACOWASA059/TACOWASA-resourcepack/releases/
-
+1. 上記リンクよりzipをダウンロード
+2. 1.16系マイクラのresourcepackフォルダに入れる
 
 ![image](https://github.com/TACOWASA059/TACOWASA-resourcepack/assets/115648249/946e816f-3c8a-432e-ba2d-3558317e0c1d)
 
